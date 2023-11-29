@@ -1,0 +1,32 @@
+table {
+    width: 20px;
+    height: 30px;
+    text-align: center;
+
+}
+
+.background {
+    background-color: lightgray;
+}
+
+.inground {
+    background: white;
+}
+
+button {
+    background-color: blue;
+}
+
+.question {
+    text-align: right;
+    font-size: 10px;
+}
+
+.button {
+ 
+    color: white;
+}
+
+.left{
+    text-align: start;
+}
